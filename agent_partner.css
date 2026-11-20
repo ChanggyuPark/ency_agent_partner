@@ -1,0 +1,112 @@
+body{margin:0}#ency-agent-partner-app{font-family:Pretendard,"IBM Plex Sans KR",sans-serif}
+/* ENCY Agent Partner — Sixshop isolated design */
+html.ency-agent-active #page2768001{display:none!important}
+#ency-agent-partner-app{--ap-green:#01cb9b;--ap-blue:#2d54d5;--ap-ink:#101416;--ap-muted:#657077;--ap-line:#e5e9e9;--ap-bg:#f6f8f7;color:var(--ap-ink);font-family:Pretendard,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:16px;line-height:1.65;word-break:keep-all;background:#fff}
+#ency-agent-partner-app *,#ency-agent-partner-app *::before,#ency-agent-partner-app *::after{box-sizing:border-box}
+#ency-agent-partner-app a{color:inherit;text-decoration:none}
+#ency-agent-partner-app .ap-main{overflow:hidden}
+#ency-agent-partner-app .ap-container{width:min(1180px,calc(100% - 64px));margin:0 auto}
+#ency-agent-partner-app .ap-section{padding:106px 0}
+#ency-agent-partner-app .ap-grad{background:linear-gradient(100deg,#00b991 10%,#2d54d5 95%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+#ency-agent-partner-app h1,#ency-agent-partner-app h2,#ency-agent-partner-app h3,#ency-agent-partner-app p{margin:0}
+#ency-agent-partner-app h1{font-size:clamp(38px,4.5vw,65px);font-weight:700;line-height:1.26;letter-spacing:-.052em}
+#ency-agent-partner-app h2{font-size:clamp(34px,3.8vw,49px);font-weight:700;line-height:1.3;letter-spacing:-.048em}
+#ency-agent-partner-app h3{font-size:20px;letter-spacing:-.03em;font-weight:700;line-height:1.4}
+#ency-agent-partner-app .ap-overline,#ency-agent-partner-app .ap-eyebrow{display:block;font-size:12px;letter-spacing:.14em;font-weight:800;color:#2377b8}
+#ency-agent-partner-app .ap-hero{position:relative;background:linear-gradient(145deg,#f9fbfa 10%,#eef8f6 50%,#edf3ff 100%);padding:82px 0 100px}
+#ency-agent-partner-app .ap-hero-bg{position:absolute;right:-110px;top:-130px;width:580px;height:580px;border-radius:50%;background:radial-gradient(circle,rgba(45,84,213,.11),transparent 65%);pointer-events:none}
+#ency-agent-partner-app .ap-hero-grid{position:relative;display:grid;grid-template-columns:1.1fr .9fr;gap:62px;align-items:center}
+#ency-agent-partner-app .ap-eyebrow{display:inline-flex;align-items:center;gap:10px;padding:9px 15px;border:1px solid #d7e6e4;border-radius:100px;background:#ffffffb5;letter-spacing:.095em}
+#ency-agent-partner-app .ap-spark{width:7px;height:7px;border-radius:50%;background:#01cb9b;box-shadow:0 0 0 4px #01cb9b1c}
+#ency-agent-partner-app .ap-hero h1{margin:27px 0 23px}
+#ency-agent-partner-app .ap-hero-copy>p{font-size:19px;color:#52636b;line-height:1.85}
+#ency-agent-partner-app .ap-hero-actions{display:flex;gap:11px;flex-wrap:wrap;margin-top:34px}
+#ency-agent-partner-app .ap-btn{display:inline-flex;justify-content:center;align-items:center;gap:22px;min-height:54px;padding:15px 23px;border-radius:11px;font-weight:750;font-size:14px;transition:transform .2s,box-shadow .2s;cursor:pointer;border:1px solid transparent;font-family:inherit}
+#ency-agent-partner-app .ap-btn:hover{transform:translateY(-2px)}
+#ency-agent-partner-app .ap-btn-primary{color:#fff;background:linear-gradient(105deg,#00bd91,#2d54d5);box-shadow:0 11px 23px #236cb21c}
+#ency-agent-partner-app .ap-btn-outline{background:#fff;color:#1c363d;border-color:#d7e3e4}
+#ency-agent-partner-app .ap-micro-points{margin-top:27px;display:flex;flex-wrap:wrap;gap:8px 16px;font-size:12px;font-weight:650;color:#52656a}
+#ency-agent-partner-app .ap-hero-visual{position:relative;padding:16px 22px 24px 0}
+#ency-agent-partner-app .ap-image-frame{position:relative;border-radius:27px;overflow:hidden;height:500px;background:#dce7e8;box-shadow:0 30px 58px #28514f26}
+#ency-agent-partner-app .ap-image-frame>img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+#ency-agent-partner-app .ap-image-caption{position:absolute;bottom:16px;left:17px;right:17px;display:flex;gap:7px;align-items:center;padding:11px 15px;border:1px solid #ffffff80;border-radius:10px;backdrop-filter:blur(14px);background:#0e202098;color:#fff;font-size:10px;font-weight:700;letter-spacing:.11em}
+#ency-agent-partner-app .ap-caption-dot{width:6px;height:6px;border-radius:50%;background:#01cb9b}
+#ency-agent-partner-app .ap-floating-note{position:absolute;right:-7px;top:50px;padding:17px 20px;border-radius:14px;background:#fff;box-shadow:0 10px 34px #16302c25;display:flex;align-items:center;gap:11px;color:#55636c;font-size:12px;line-height:1.5}
+#ency-agent-partner-app .ap-floating-note b{font-size:14px;color:#18262b}
+#ency-agent-partner-app .ap-note-icon{width:34px;height:34px;display:grid;place-items:center;background:linear-gradient(130deg,#01cb9b,#2d54d5);color:#fff;border-radius:10px;font-size:21px}
+#ency-agent-partner-app .ap-section-head{max-width:650px;margin-bottom:42px}
+#ency-agent-partner-app .ap-section-head h2{margin:12px 0 17px}
+#ency-agent-partner-app .ap-section-head p,#ency-agent-partner-app .ap-faq-grid>div:first-child>p{color:var(--ap-muted);font-size:16px}
+#ency-agent-partner-app .ap-fit-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+#ency-agent-partner-app .ap-fit-card{position:relative;min-height:245px;padding:30px;border:1px solid var(--ap-line);border-radius:19px;background:#fff;transition:box-shadow .2s,transform .2s}
+#ency-agent-partner-app .ap-fit-card:hover{transform:translateY(-4px);box-shadow:0 16px 40px #192f2c0e}
+#ency-agent-partner-app .ap-card-num{color:#95a5aa;font-weight:750;font-size:12px;letter-spacing:.1em}
+#ency-agent-partner-app .ap-fit-icon{position:absolute;right:27px;top:23px;font-size:32px;font-weight:350;color:#12a99a}
+#ency-agent-partner-app .ap-fit-card h3{margin:29px 0 12px}
+#ency-agent-partner-app .ap-fit-card p{color:var(--ap-muted);font-size:14px}
+#ency-agent-partner-app .ap-footnote{margin-top:17px;font-size:12px;color:#859096}
+#ency-agent-partner-app .ap-simplicity{background:var(--ap-bg)}
+#ency-agent-partner-app .ap-simple-layout{display:grid;grid-template-columns:1fr .93fr;gap:78px;align-items:center}
+#ency-agent-partner-app .ap-simple-copy h2{margin:13px 0 20px}
+#ency-agent-partner-app .ap-lead{color:var(--ap-muted);max-width:530px}
+#ency-agent-partner-app .ap-support-rows{margin-top:34px;display:grid;gap:0}
+#ency-agent-partner-app .ap-support-rows>div{display:flex;align-items:flex-start;gap:15px;border-top:1px solid #e0e7e7;padding:21px 0}
+#ency-agent-partner-app .ap-support-rows>div:last-child{border-bottom:1px solid #e0e7e7}
+#ency-agent-partner-app .ap-check{display:grid;place-items:center;width:26px;height:26px;flex:none;border-radius:50%;background:#d8f7eb;color:#059d79;font-weight:900;font-size:13px}
+#ency-agent-partner-app .ap-support-rows strong{display:block;font-size:15px}
+#ency-agent-partner-app .ap-support-rows small{display:block;font-size:13px;margin-top:3px;color:var(--ap-muted)}
+#ency-agent-partner-app .ap-support-visual{position:relative;padding-bottom:110px}
+#ency-agent-partner-app .ap-support-visual>img{display:block;width:100%;aspect-ratio:1.16;object-fit:cover;border-radius:22px;background:#dde6eb}
+#ency-agent-partner-app .ap-support-tile{position:absolute;left:25px;right:-10px;bottom:17px;border-radius:16px;background:#fff;padding:25px 28px;box-shadow:0 18px 50px #0b25201c}
+#ency-agent-partner-app .ap-support-kicker{color:#42968c;font-size:10px;font-weight:800;letter-spacing:.12em}
+#ency-agent-partner-app .ap-support-tile strong{display:block;margin-top:4px;font-size:15px}
+#ency-agent-partner-app .ap-tile-rule{height:1px;background:#e8eded;margin:14px 0}
+#ency-agent-partner-app .ap-center{text-align:center;margin:0 auto 43px}
+#ency-agent-partner-app .ap-steps-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+#ency-agent-partner-app .ap-step{background:#f7f9f8;border:1px solid #e9eeec;padding:28px 24px;border-radius:18px;min-height:235px}
+#ency-agent-partner-app .ap-step-no{font-size:11px;color:#4c9f93;font-weight:800;letter-spacing:.13em}
+#ency-agent-partner-app .ap-step-symbol{margin:17px 0 14px;font-size:29px;color:#2076b9;font-weight:400}
+#ency-agent-partner-app .ap-step h3{font-size:17px;margin-bottom:8px}
+#ency-agent-partner-app .ap-step p{font-size:13px;color:var(--ap-muted)}
+#ency-agent-partner-app .ap-steps-note{font-size:12px;color:#829097;margin-top:17px;text-align:center}
+#ency-agent-partner-app .ap-faq{background:#f7f9f8}
+#ency-agent-partner-app .ap-faq-grid{display:grid;grid-template-columns:.72fr 1.28fr;gap:90px}
+#ency-agent-partner-app .ap-faq-grid h2{margin:13px 0 15px}
+#ency-agent-partner-app .ap-faq-items{display:grid;gap:10px}
+#ency-agent-partner-app .ap-faq-items details{border:1px solid #e4e9e8;border-radius:13px;background:#fff;overflow:hidden}
+#ency-agent-partner-app .ap-faq-items summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:20px;padding:19px 21px;font-size:14px;font-weight:700}
+#ency-agent-partner-app .ap-faq-items summary::-webkit-details-marker{display:none}
+#ency-agent-partner-app .ap-faq-items summary span{font-size:22px;color:#178e83;font-weight:400}
+#ency-agent-partner-app .ap-faq-items details[open] summary span{transform:rotate(45deg)}
+#ency-agent-partner-app .ap-faq-items details p{padding:0 21px 22px;font-size:13px;line-height:1.8;color:var(--ap-muted)}
+#ency-agent-partner-app .ap-apply{background:linear-gradient(155deg,#edf9f5,#f3f6fd 73%,#fff)}
+#ency-agent-partner-app .ap-apply-wrap{display:grid;grid-template-columns:.8fr 1.2fr;gap:64px;align-items:start}
+#ency-agent-partner-app .ap-apply-intro{padding-top:22px}
+#ency-agent-partner-app .ap-apply-intro h2{margin:16px 0 17px}
+#ency-agent-partner-app .ap-apply-intro>p{color:var(--ap-muted)}
+#ency-agent-partner-app .ap-contact{border-top:1px solid #d8e3e6;margin-top:41px;padding-top:25px;display:flex;flex-direction:column;align-items:flex-start;gap:5px}
+#ency-agent-partner-app .ap-contact span{color:var(--ap-muted);font-size:12px}
+#ency-agent-partner-app .ap-contact strong{font-size:14px;margin:6px 0 4px}
+#ency-agent-partner-app .ap-contact a{font-size:14px;color:#2e647f}
+#ency-agent-partner-app .ap-form{background:#fff;border:1px solid #e0e8e6;box-shadow:0 17px 70px #1334390c;border-radius:21px;padding:33px}
+#ency-agent-partner-app .ap-form-title{display:flex;justify-content:space-between;align-items:center;font-size:22px;font-weight:800;margin-bottom:22px}
+#ency-agent-partner-app .ap-form-title span{font-size:11px;font-weight:500;color:#889197}
+#ency-agent-partner-app .ap-form-grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+#ency-agent-partner-app .ap-form-grid label{display:block;min-width:0;font-size:13px;font-weight:700;color:#36444b}
+#ency-agent-partner-app .ap-form-grid .ap-wide{grid-column:1/-1}
+#ency-agent-partner-app .ap-optional{color:#909da3;font-weight:400}
+#ency-agent-partner-app .ap-form-grid input,#ency-agent-partner-app .ap-form-grid textarea{display:block;width:100%;border:1px solid #dce5e5;border-radius:9px;margin:7px 0 0;min-height:45px;padding:12px 13px;font-size:13px;line-height:1.6;background:#fbfcfc;color:#18252c;outline:0;font-family:inherit;transition:border-color .2s,box-shadow .2s}
+#ency-agent-partner-app .ap-form-grid textarea{resize:vertical;min-height:94px}
+#ency-agent-partner-app .ap-form-grid input:focus,#ency-agent-partner-app .ap-form-grid textarea:focus{border-color:#21a3a0;box-shadow:0 0 0 3px #01cb9b1c}
+#ency-agent-partner-app .ap-form-grid input::placeholder,#ency-agent-partner-app .ap-form-grid textarea::placeholder{color:#a1a9ad}
+#ency-agent-partner-app .ap-privacy{margin-top:20px;display:flex;gap:10px;align-items:flex-start;font-size:12px;line-height:1.6;cursor:pointer}
+#ency-agent-partner-app .ap-privacy input{accent-color:#2d54d5;margin-top:3px;width:16px;height:16px;flex:none}
+#ency-agent-partner-app .ap-privacy small{display:block;margin-top:4px;font-size:11px;line-height:1.6;color:#7e8990}
+#ency-agent-partner-app .ap-submit{margin-top:24px;width:100%;font-size:15px}
+#ency-agent-partner-app #ap-status{font-size:13px;margin-top:12px;min-height:20px}
+#ency-agent-partner-app #ap-status.success{color:#07886b}
+#ency-agent-partner-app #ap-status.error{color:#cc3f36}
+#ency-agent-partner-app .ap-form-note{font-size:11px;color:#9aa4aa;margin-top:9px;text-align:center}
+@media(max-width:1050px){#ency-agent-partner-app .ap-hero-grid{gap:30px}#ency-agent-partner-app .ap-image-frame{height:420px}#ency-agent-partner-app .ap-simple-layout{gap:40px}#ency-agent-partner-app .ap-faq-grid{gap:48px}#ency-agent-partner-app .ap-apply-wrap{gap:32px}}
+@media(max-width:800px){#ency-agent-partner-app .ap-container{width:min(100% - 36px,640px)}#ency-agent-partner-app .ap-section{padding:76px 0}#ency-agent-partner-app .ap-hero{padding:55px 0 65px}#ency-agent-partner-app .ap-hero-grid,#ency-agent-partner-app .ap-simple-layout,#ency-agent-partner-app .ap-faq-grid,#ency-agent-partner-app .ap-apply-wrap{grid-template-columns:1fr;gap:35px}#ency-agent-partner-app .ap-hero h1{font-size:clamp(34px,7vw,50px)}#ency-agent-partner-app .ap-hero-copy>p{font-size:16px}#ency-agent-partner-app .ap-hero-visual{padding:0 10px 10px}#ency-agent-partner-app .ap-image-frame{height:350px}#ency-agent-partner-app .ap-floating-note{right:-4px;top:22px}#ency-agent-partner-app .ap-fit-grid{grid-template-columns:1fr;gap:12px}#ency-agent-partner-app .ap-fit-card{min-height:185px}#ency-agent-partner-app .ap-fit-card h3{margin:17px 0 9px}#ency-agent-partner-app .ap-steps-grid{grid-template-columns:1fr 1fr}#ency-agent-partner-app .ap-step{min-height:200px}#ency-agent-partner-app .ap-support-visual{max-width:560px}#ency-agent-partner-app .ap-faq-grid{gap:30px}#ency-agent-partner-app .ap-apply-intro{padding-top:0}}
+@media(max-width:480px){#ency-agent-partner-app .ap-container{width:calc(100% - 30px)}#ency-agent-partner-app h1{font-size:35px}#ency-agent-partner-app h2{font-size:32px}#ency-agent-partner-app .ap-eyebrow{font-size:9px;letter-spacing:.07em}#ency-agent-partner-app .ap-hero-actions{flex-direction:column}#ency-agent-partner-app .ap-btn{width:100%}#ency-agent-partner-app .ap-hero-visual{padding:0}#ency-agent-partner-app .ap-image-frame{height:315px}#ency-agent-partner-app .ap-floating-note{right:7px;padding:10px 12px}#ency-agent-partner-app .ap-floating-note b{font-size:12px}#ency-agent-partner-app .ap-micro-points{gap:5px 12px}#ency-agent-partner-app .ap-step{padding:21px 16px;min-height:210px}#ency-agent-partner-app .ap-step h3{font-size:15px}#ency-agent-partner-app .ap-support-tile{left:10px;right:0;padding:20px}#ency-agent-partner-app .ap-form{padding:22px 18px}#ency-agent-partner-app .ap-form-grid{grid-template-columns:1fr}#ency-agent-partner-app .ap-form-grid .ap-wide{grid-column:auto}#ency-agent-partner-app .ap-form-title{font-size:19px}}
